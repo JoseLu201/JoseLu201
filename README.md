@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Luis</h1>
 <h3 align="center">A current student at UGR</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: joselumolina@gmail.com </h3>
 <p align="left">
 </p>
 
